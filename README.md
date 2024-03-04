@@ -7,7 +7,7 @@ This is a simple password generator script written in Python. It generates a ran
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/your-username/password-generator.git
+    git clone https://github.com/cr7guez/password-generator.git
     ```
 
 2. Navigate to the project directory:
