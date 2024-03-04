@@ -30,6 +30,9 @@ This is a simple password generator script written in Python. It generates a ran
 
 You can customize the characters and symbols used for generating the password by modifying the `abc_lowercase`, `abc_uppercase`, `numbers`, and `symbols` variables in the script.
 
-## License
+## Metadata
 
-This project is licensed under the [MIT License](LICENSE).
+- **Date:** March 4, 2024
+- **Author:** César Rodríguez
+- **Version:** 1.00
+
