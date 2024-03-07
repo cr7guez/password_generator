@@ -11,7 +11,7 @@ def password_generator(length):
     abc_uppercase = abc_lowercase.upper() 
     
     numbers = "0123456789"
-    symbols = "{}[]()*;/,_-"
+    symbols = "!·$%&/()=?¿¡*¨^[]{}-_.:,;<>|@#~`+"
     
     # Define the sequence
     sequence = abc_lowercase + abc_uppercase + numbers + symbols
